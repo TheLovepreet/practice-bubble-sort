@@ -1,6 +1,5 @@
 
 function bubbleSort(arr) {
-
     // Iterate through the array
     let swaps = 0;
     for(let i = 0; i < arr.length; i++){
